@@ -1,7 +1,2 @@
-# Node
-node_modules/
-npm-debug.log.*
-build/
-
-#nextjs
-.next/
+build
+node_modules
